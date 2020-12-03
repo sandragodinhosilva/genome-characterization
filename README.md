@@ -26,14 +26,14 @@ Download: https://sourceforge.net/projects/bbmap/
 
 
 ## 2. <a name="installation"></a>Installation
-### Download FAW repository:
+### Download this repository:
 Option 1: If you have git - clone the repository:
 ```
-git clone git@github.com:sandragodinhosilva/FAW.git
+git clone git@github.com:sandragodinhosilva/genome-characterization.git
 ```
 Option 2: Download the current version of the code:
 ```
-wget https://github.com/sandragodinhosilva/FAW.git
+wget https://github.com/sandragodinhosilva/genome-characterization.git
 ```
 ### Create conda environment & install dependencies
 ```
@@ -44,7 +44,7 @@ conda install diamond
 conda install pandas 
 ```
 ### Download databases 
-I:
+
 
 
 ## 3. <a name="run"></a>How to run
